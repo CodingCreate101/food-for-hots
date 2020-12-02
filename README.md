@@ -1,3 +1,5 @@
+## Setup
+
 1. Clone repo
 
    ```
@@ -6,3 +8,7 @@
 
 1. `npm install`
 1. `npm test`
+
+## Content
+
+1. [sumFibs](https://github.com/CodingCreate101/food-for-hots/blob/main/sumFibs.js)
