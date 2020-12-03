@@ -20,6 +20,6 @@ function flipArgs(func) {
 //   return args;
 // });
 
-// console.log(flipped("a", "b", "c", "d", "e"));
+// console.log(flipped("a", "b", "c", "d", "e")); // ["e", "d", "c", "b", "a"]
 
 module.exports = { flipArgs, reverseArray };
